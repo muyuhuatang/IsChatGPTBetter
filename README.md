@@ -3,6 +3,15 @@ Dataset repo for the paper \<Is ChatGPT Better than Human annotators? Potential 
 
 https://dl.acm.org/doi/abs/10.1145/3543873.3587368
 
+## We shared three data files in this repo
+
+
+ChatGPT Classification and NLE collection.csv (ChatGPT answers for 795 instances for three rounds. The answer included classification and natural language explanation.)
+
+Three Classification Result.xlsx (MTurk annotations for hateful/not-sure/non-hateful classification on posts under three scenarios: only post, post with human explanations, or post with ChatGPT explanations.)
+
+ChatGPT vs. Human quality scores.xlsx (MTurk annotations for both ChatGPT and human natural language explanations, three rounds for 100 instances.)
+
 Citation bib info as below:
 ```
 @inproceedings{IsChatGPT,
