@@ -1,5 +1,5 @@
 # IsChatGPTBetter
-Dataset repo for the paper \<Is ChatGPT Better than Human annotators\>, WWW 2023 short paper.
+Dataset repo for the paper \<Is ChatGPT Better than Human annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech\>, WWW 2023 short paper.
 
 https://dl.acm.org/doi/abs/10.1145/3543873.3587368
 
